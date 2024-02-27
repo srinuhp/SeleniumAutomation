@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="18" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+      <class name="com.test.FruitsTest">
+        <test-method status="PASS" signature="apple()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="apple" is-config="true" duration-ms="26" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple -->
+        <test-method status="PASS" signature="nine()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="nine" is-config="true" duration-ms="1" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nine -->
+        <test-method status="PASS" signature="three()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="three" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+        <test-method status="PASS" signature="eggplant()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="eggplant" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eggplant -->
+        <test-method status="PASS" signature="custardapple()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="custardapple" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- custardapple -->
+        <test-method status="PASS" signature="kiwi()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="kiwi" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kiwi -->
+        <test-method status="PASS" signature="dragon()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="dragon" duration-ms="2" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragon -->
+        <test-method status="PASS" signature="berries()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="berries" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- berries -->
+        <test-method status="PASS" signature="guva()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="guva" is-config="true" duration-ms="1" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guva -->
+        <test-method status="PASS" signature="oranges()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="oranges" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oranges -->
+        <test-method status="PASS" signature="onion()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="onion" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onion -->
+        <test-method status="PASS" signature="pinapple()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="pinapple" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinapple -->
+        <test-method status="PASS" signature="two()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="two" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method status="PASS" signature="eight()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="eight" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eight -->
+        <test-method status="PASS" signature="grapes()[pri:0, instance:com.test.FruitsTest@5315b42e]" name="grapes" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grapes -->
+      </class> <!-- com.test.FruitsTest -->
+      <class name="com.test.VegitableTest">
+        <test-method status="PASS" signature="cucumber()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="cucumber" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cucumber -->
+        <test-method status="PASS" signature="eggplant()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="eggplant" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eggplant -->
+        <test-method status="PASS" signature="redleaves()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="redleaves" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redleaves -->
+        <test-method status="PASS" signature="onion()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="onion" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onion -->
+        <test-method status="PASS" signature="potatos()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="potatos" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- potatos -->
+        <test-method status="PASS" signature="methi()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="methi" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methi -->
+        <test-method status="PASS" signature="spinach()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="spinach" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spinach -->
+        <test-method status="PASS" signature="tomato()[pri:0, instance:com.test.VegitableTest@1e67b872]" name="tomato" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tomato -->
+      </class> <!-- com.test.VegitableTest -->
+      <class name="com.test.NumbersTest">
+        <test-method status="PASS" signature="one()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="one" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method status="PASS" signature="seven()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="seven" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seven -->
+        <test-method status="PASS" signature="five()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="five" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- five -->
+        <test-method status="PASS" signature="four()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="four" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- four -->
+        <test-method status="PASS" signature="six()[pri:0, instance:com.test.NumbersTest@2ef9b8bc]" name="six" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- six -->
+      </class> <!-- com.test.NumbersTest -->
+      <class name="com.test.VeggiesTest">
+        <test-method status="PASS" signature="potatos()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="potatos" is-config="true" duration-ms="1" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- potatos -->
+        <test-method status="PASS" signature="cucumber()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="cucumber" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cucumber -->
+        <test-method status="PASS" signature="methi()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="methi" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methi -->
+        <test-method status="PASS" signature="redleaves()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="redleaves" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redleaves -->
+        <test-method status="PASS" signature="potatos()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="potatos" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- potatos -->
+        <test-method status="PASS" signature="potatos()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="potatos" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- potatos -->
+        <test-method status="PASS" signature="potatos()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="potatos" is-config="true" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- potatos -->
+        <test-method status="PASS" signature="spinach()[pri:0, instance:com.test.VeggiesTest@5d624da6]" name="spinach" duration-ms="0" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spinach -->
+      </class> <!-- com.test.VeggiesTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="25980" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25980" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:27Z">
+      <class name="com.ng1.IhgTest">
+        <test-method status="PASS" signature="ihg()[pri:0, instance:com.ng1.IhgTest@234bef66]" name="ihg" duration-ms="14364" started-at="2024-02-26T00:51:01Z" finished-at="2024-02-26T00:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ihg -->
+      </class> <!-- com.ng1.IhgTest -->
+      <class name="com.ng1.WalmartTest">
+        <test-method status="PASS" signature="walmart()[pri:0, instance:com.ng1.WalmartTest@737996a0]" name="walmart" duration-ms="11612" started-at="2024-02-26T00:51:16Z" finished-at="2024-02-26T00:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- walmart -->
+      </class> <!-- com.ng1.WalmartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
